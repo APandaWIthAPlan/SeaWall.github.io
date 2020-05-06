@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "DoItYourself.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -9,13 +9,20 @@
       "nameSelectPreset": "article"
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-05-03_1658",
+    "name": "Seawalls",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
     "uniqCompNum": 6,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/4713-minecraftbee.gif",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -210,9 +217,9 @@
         }
       ]
     },
-    "page1.html": {
+    "DoItYourself.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "Do It Yourself",
         "order": 1
       },
       "components": [
