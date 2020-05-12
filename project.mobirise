@@ -251,7 +251,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2020-05-06-dashboard-tinkercad-231x154.png",
+              "src": "@PROJECT_PATH@/assets/images/grand-waasa-hillar-2020-may-12-09-40-54pm-000-customizedview22610330022-1400x624.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -351,13 +351,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "Quick Dry Cement",
-          "caption1": "Quick-Dry is the perferable method for an easy at-home seawall. The low cost and ease of use is what makes this the most perferable&nbsp;<br><br>",
+          "caption1": "Quick-Dry is the perferable method for an easy at-home seawall. The low cost and ease of use is what makes this the most perferable&nbsp;<br><br><br>",
           "title2": "Metal Pipes",
-          "caption2": "Support the cement  through the thinner, back area of the wall itself.\n<br>\n<br><br><br><br>",
+          "caption2": "<br>Support the cement  through the thinner, back area of the wall itself.\n<br>\n<br><br><br><br>",
           "title3": "Lumber",
-          "caption3": "Mostly used for a \"Mold\" to get the cement into the right shape (Feel free to get the cheaper wood if you perfer). Be sure to select padding to prevent the cement itself from sticking directly to your mold",
+          "caption3": "<br>Mostly used for a \"Mold\" to get the cement into the right shape (Feel free to get the cheaper wood if you perfer). Be sure to select padding to prevent the cement itself from sticking directly to your mold",
           "title4": "PPE",
-          "caption4": "Please use safety glasses and mask when working with Quick-Dry cement<br><br><br><br><br>",
+          "caption4": "<br>Please use safety glasses and mask when working with Quick-Dry cement<br><br><br><br><br>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
